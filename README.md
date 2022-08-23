@@ -8,7 +8,8 @@ Front Web Developer
 *   🖥️  See my portfolio at [Portfolio Not Finished](http://asafrushiti.netlify.app)
 *   ✉️  You can contact me at [asafrushiti3@gmail.com](mailto:asafrushiti3@gmail.com)
 *   🚀  I'm currently working on [Online Car Dealer w/HTML, CSS, JS, PHP, MySQL](http://autosalonasaf.000webhostapp.com/)
-*   🧠  I'm learning TailwindCss<a href="https://www.twitter.com/asaf_rushiti" target="_blank" rel="noreferrer"><img
+*   🧠  I'm learning TailwindCss
+<a href="https://www.twitter.com/asaf_rushiti" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/asaf_rushiti?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/asaf53" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/asaf53?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
