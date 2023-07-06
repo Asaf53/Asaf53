@@ -8,7 +8,7 @@ Back End Web Developer
 * 🖥️  See my portfolio at [Portfolio Not Finished](http://asafrushiti.netlify.app)
 * ✉️  You can contact me at [asafrushiti3@gmail.com](mailto:asafrushiti3@gmail.com)
 * 🚀  I'm currently working on [Online Car Dealer w/HTML, CSS, JS, PHP, MySQL](http://grandprixmotor.000webhostapp.com/)
-* 🧠  I'm learning TailwindCss
+* 🧠  I'm learning ReactJS
 
 <a href="https://www.twitter.com/asaf_rushiti" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/asaf_rushiti?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
