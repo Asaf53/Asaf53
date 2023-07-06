@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Gostivar<br>🖥️  See my portfolio at Portfolio Not Finished<br>✉️  You can contact me at asafrushiti3@gmail.com<br>🚀  I'm currently working on Online Car Dealer w/Laravel React<br>🧠  I'm learning ReactJS
+🌍  I'm based in Gostivar<br>🖥️  Portfolio Not Finished<br>✉️  You can contact me at asafrushiti3@gmail.com<br>🚀  I'm currently working on Online Car Dealer w/Laravel React<br>🧠  I'm learning ReactJS
 
 
 ## 🌐 Socials:
