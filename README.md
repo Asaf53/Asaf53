@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Gostivar<br>🖥️  Portfolio Not Finished<br>✉️  You can contact me at asafrushiti3@gmail.com<br>🚀  I'm currently working on Online Car Marketplace w/Laravel<br>🧠  I'm learning ReactJS
+🌍  I'm based in Gostivar<br>🖥️  Portfolio: https://asafrushiti.vercel.app <br>✉️  You can contact me at asafrushiti3@gmail.com<br>🚀  I'm currently working on IgnitUp Starup and Investor Tinder w/Laravel, React, Shadcn <br>🧠  I'm learning everything. 
 
 
 ## 🌐 Socials:
